@@ -31,6 +31,6 @@ public class A1 {
             System.out.println(nome+" ("+cargo+") - ACESSO NEGADO.");
 
         }
-
+       sc.close();
     }
 }
